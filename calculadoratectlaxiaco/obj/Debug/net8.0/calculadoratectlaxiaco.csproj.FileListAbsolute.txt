@@ -1,0 +1,11 @@
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\bin\Debug\net8.0\calculadoratectlaxiaco.deps.json
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\bin\Debug\net8.0\calculadoratectlaxiaco.dll
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\bin\Debug\net8.0\calculadoratectlaxiaco.pdb
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.AssemblyInfoInputs.cache
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.AssemblyInfo.cs
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.csproj.CoreCompileInputs.cache
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.dll
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\refint\calculadoratectlaxiaco.dll
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\calculadoratectlaxiaco.pdb
+C:\Users\Spart\source\repos\calculadoratectlaxiaco\calculadoratectlaxiaco\obj\Debug\net8.0\ref\calculadoratectlaxiaco.dll
